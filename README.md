@@ -26,6 +26,8 @@
 | | |
 |<a href="https://www.hackerearth.com/@MrZ3RO_k3nis7" target="blank"><img align="center" src="https://raw.githubusercontent.com/MrZ3RO-K3NiS7/CUSTOMiZATiON-TOOLS/key/%23HACKEREARTH.png" alt="@MrZ3RO_k3nis7" height="150" width="150" /></a>|**3**|
 | | |
+|<a href="https://cses.fi/user/160204" target="blank"><img align="center" src="https://raw.githubusercontent.com/MrZ3RO-K3NiS7/CUSTOMiZATiON-TOOLS/key/%23CSES%20(SQ).png" alt="MrZ3RO_k3nis7" height="150" width="150" /></a>|**0**|
+| | |
 | | |
 | | |
 |**OVERALL COUNT**|**289**|
